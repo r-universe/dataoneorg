@@ -1,0 +1,13 @@
+[
+  {
+    "package": "dataone",
+    "oncran": true
+  },
+  {
+    "package": "datapack",
+    "oncran": true
+  },
+  {
+    "package": "recordr"
+  }
+]

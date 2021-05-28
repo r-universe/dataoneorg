@@ -1,5 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/dataoneorg/universe
 	shallow = true
 	branch = HEAD
+[submodule "dataone"]
+	path = dataone
+	url = https://github.com/DataONEorg/rdataone
+	shallow = true
+	registered = true
+[submodule "datapack"]
+	path = datapack
+	url = https://github.com/ropensci/datapack
+	shallow = true
+	registered = true
+[submodule "recordr"]
+	path = recordr
+	url = https://github.com/NCEAS/recordr
+	shallow = true
+	registered = true
