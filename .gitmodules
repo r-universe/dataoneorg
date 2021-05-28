@@ -13,8 +13,43 @@
 	url = https://github.com/ropensci/datapack
 	shallow = true
 	registered = true
+[submodule "EML"]
+	path = EML
+	url = https://github.com/ropensci/EML
+	shallow = true
+	registered = true
+[submodule "metajam"]
+	path = metajam
+	url = https://github.com/NCEAS/metajam
+	shallow = true
+	registered = true
+[submodule "datmgmt"]
+	path = datmgmt
+	url = https://github.com/NCEAS/datmgmt
+	shallow = true
+	registered = true
+[submodule "arcticdatautils"]
+	path = arcticdatautils
+	url = https://github.com/NCEAS/arcticdatautils
+	shallow = true
+	registered = true
+[submodule "scythe"]
+	path = scythe
+	url = https://github.com/DataONEorg/scythe
+	shallow = true
+	registered = true
 [submodule "recordr"]
 	path = recordr
 	url = https://github.com/NCEAS/recordr
+	shallow = true
+	registered = true
+[submodule "codyn"]
+	path = codyn
+	url = https://github.com/NCEAS/codyn
+	shallow = true
+	registered = true
+[submodule "redland"]
+	path = redland
+	url = https://github.com/ropensci/redland-bindings/tree/master/R/redland
 	shallow = true
 	registered = true

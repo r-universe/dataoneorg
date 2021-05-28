@@ -8,6 +8,31 @@
     "oncran": true
   },
   {
+    "package": "EML",
+    "oncran": true
+  },
+  {
+    "package": "metajam",
+    "oncran": true
+  },
+  {
+    "package": "datmgmt"
+  },
+  {
+    "package": "arcticdatautils"
+  },
+  {
+    "package": "scythe"
+  },
+  {
     "package": "recordr"
+  },
+  {
+    "package": "codyn",
+    "oncran": true
+  },
+  {
+    "package": "redland",
+    "oncran": true
   }
 ]
