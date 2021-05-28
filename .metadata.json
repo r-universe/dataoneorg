@@ -16,7 +16,7 @@
     "oncran": true
   },
   {
-    "package": "datmgmt"
+    "package": "datamgmt"
   },
   {
     "package": "arcticdatautils"
@@ -29,10 +29,6 @@
   },
   {
     "package": "codyn",
-    "oncran": true
-  },
-  {
-    "package": "redland",
     "oncran": true
   }
 ]

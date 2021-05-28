@@ -23,9 +23,9 @@
 	url = https://github.com/NCEAS/metajam
 	shallow = true
 	registered = true
-[submodule "datmgmt"]
-	path = datmgmt
-	url = https://github.com/NCEAS/datmgmt
+[submodule "datamgmt"]
+	path = datamgmt
+	url = https://github.com/NCEAS/datamgmt
 	shallow = true
 	registered = true
 [submodule "arcticdatautils"]
@@ -46,10 +46,5 @@
 [submodule "codyn"]
 	path = codyn
 	url = https://github.com/NCEAS/codyn
-	shallow = true
-	registered = true
-[submodule "redland"]
-	path = redland
-	url = https://github.com/ropensci/redland-bindings/tree/master/R/redland
 	shallow = true
 	registered = true
