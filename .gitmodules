@@ -23,11 +23,6 @@
 	url = https://github.com/NCEAS/metajam
 	shallow = true
 	registered = true
-[submodule "datamgmt"]
-	path = datamgmt
-	url = https://github.com/NCEAS/datamgmt
-	shallow = true
-	registered = true
 [submodule "arcticdatautils"]
 	path = arcticdatautils
 	url = https://github.com/NCEAS/arcticdatautils
