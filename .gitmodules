@@ -43,6 +43,11 @@
 	url = https://github.com/NCEAS/recordr
 	shallow = true
 	registered = true
+[submodule "redland"]
+	path = redland
+	url = https://github.com/DataONEorg/redland-bindings/R/redland
+	shallow = true
+	registered = true
 [submodule "codyn"]
 	path = codyn
 	url = https://github.com/NCEAS/codyn
