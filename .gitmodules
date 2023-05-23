@@ -18,6 +18,11 @@
 	url = https://github.com/ropensci/EML
 	shallow = true
 	registered = true
+[submodule "emld"]
+	path = emld
+	url = https://github.com/ropensci/emld
+	shallow = true
+	registered = true
 [submodule "metajam"]
 	path = metajam
 	url = https://github.com/NCEAS/metajam
