@@ -50,8 +50,10 @@
 	registered = true
 [submodule "redland"]
 	path = redland
-	url = https://github.com/DataONEorg/redland-bindings/R/redland
+	url = https://github.com/ropensci/redland-bindings
 	shallow = true
+	branch = master
+	subdir = R/redland
 	registered = true
 [submodule "codyn"]
 	path = codyn
