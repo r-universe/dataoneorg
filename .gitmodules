@@ -1,62 +1,39 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/dataoneorg/universe
-	shallow = true
 	branch = HEAD
-[submodule "dataone"]
-	path = dataone
-	url = https://github.com/DataONEorg/rdataone
-	shallow = true
-	registered = true
-[submodule "datapack"]
-	path = datapack
-	url = https://github.com/ropensci/datapack
-	shallow = true
-	registered = true
 [submodule "EML"]
 	path = EML
 	url = https://github.com/ropensci/EML
-	shallow = true
-	registered = true
-[submodule "emld"]
-	path = emld
-	url = https://github.com/ropensci/emld
-	shallow = true
-	registered = true
-[submodule "metajam"]
-	path = metajam
-	url = https://github.com/NCEAS/metajam
-	shallow = true
-	registered = true
-[submodule "datamgmt"]
-	path = datamgmt
-	url = https://github.com/NCEAS/datamgmt
-	shallow = true
-	registered = true
 [submodule "arcticdatautils"]
 	path = arcticdatautils
 	url = https://github.com/NCEAS/arcticdatautils
-	shallow = true
-	registered = true
-[submodule "scythe"]
-	path = scythe
-	url = https://github.com/DataONEorg/scythe
-	shallow = true
-	registered = true
-[submodule "recordr"]
-	path = recordr
-	url = https://github.com/NCEAS/recordr
-	shallow = true
-	registered = true
-[submodule "redland"]
-	path = redland
-	url = https://github.com/ropensci/redland-bindings
-	shallow = true
-	branch = master
-	subdir = R/redland
-	registered = true
 [submodule "codyn"]
 	path = codyn
 	url = https://github.com/NCEAS/codyn
-	shallow = true
-	registered = true
+[submodule "datamgmt"]
+	path = datamgmt
+	url = https://github.com/NCEAS/datamgmt
+[submodule "dataone"]
+	path = dataone
+	url = https://github.com/DataONEorg/rdataone
+[submodule "datapack"]
+	path = datapack
+	url = https://github.com/ropensci/datapack
+[submodule "emld"]
+	path = emld
+	url = https://github.com/ropensci/emld
+[submodule "metajam"]
+	path = metajam
+	url = https://github.com/NCEAS/metajam
+[submodule "recordr"]
+	path = recordr
+	url = https://github.com/NCEAS/recordr
+[submodule "redland"]
+	path = redland
+	url = https://github.com/ropensci/redland-bindings
+	branch = master
+	subdir = R/redland
+[submodule "scythe"]
+	path = scythe
+	url = https://github.com/DataONEorg/scythe
