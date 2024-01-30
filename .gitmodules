@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/dataoneorg/universe
+	url = https://github.com/dataoneorg/dataoneorg.r-universe.dev
 	branch = HEAD
 [submodule "EML"]
 	path = EML
