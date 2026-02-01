@@ -8,11 +8,6 @@
 [submodule "arcticdatautils"]
 	path = arcticdatautils
 	url = https://github.com/NCEAS/arcticdatautils
-[submodule "bib2df"]
-	path = bib2df
-	url = https://github.com/ropensci/bib2df
-	branch = a8e96e13f5
-	registered = false
 [submodule "codyn"]
 	path = codyn
 	url = https://github.com/NCEAS/codyn
